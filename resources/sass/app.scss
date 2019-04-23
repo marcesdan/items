@@ -1,0 +1,20 @@
+// Pace.js
+@import 'pace';
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+// Variables
+@import "variables";
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/build/scss/AdminLTE-raw';
+//@import '~admin-lte/plugins/datatables/dataTables.bootstrap4.css';
+
+table.dataTable {
+    border-collapse: collapse !important;
+}
+
+//.required:after {
+//  color: #e32;
+//  content: ' *';
+//  display:inline;
+//}
